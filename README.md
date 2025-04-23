@@ -31,6 +31,7 @@ A Python tool to search for specific keywords inside **all public repositories**
 ### 🔧 Requirements
 - Python 3.x
 - `requests` library (install via `pip install requests`)
+- Add your GitHub API Token in `GITHUB_TOKEN = 'GitHub API Token'`. You will find it into `github_keyword_search.py` file
 
 ### ▶️ Run the tool
 
