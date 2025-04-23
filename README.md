@@ -37,6 +37,6 @@ A Python tool to search for specific keywords inside **all public repositories**
 
 ```bash
 python github_keyword_search.py
-Enter GitHub URL (like https://github.com/username): https://github.com/OWASP
-Enter keywords (comma-separated): token, csrf
+Enter GitHub URL (ex: https://github.com/user):  https://github.com/OWASP
+EEnter keywords (ex: user,password): token, csrf
 ```
